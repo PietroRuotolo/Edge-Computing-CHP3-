@@ -136,6 +136,12 @@ vinheria-agnello-cp02/
 
 ---
 
+## Links da Simulação
+
+Link Tinkercad: https://www.tinkercad.com/things/9IT6klAwnUa-copy-of-sensor-dht11-temperature-and-humidity-?sharecode=mX1iavIpGPadsKg068-tCyM7uDVszOAI_50pcE4hqK4
+
+Link Wokwi: https://wokwi.com/projects/464448581557817345
+
 ## Participantes
 
 | Nome                      | RM     |
