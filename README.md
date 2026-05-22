@@ -142,6 +142,9 @@ Link Tinkercad: https://www.tinkercad.com/things/9IT6klAwnUa-copy-of-sensor-dht1
 
 Link Wokwi: https://wokwi.com/projects/464448581557817345
 
+## Link do Vídeo:
+https://youtu.be/KVz6D_tMPfI
+
 ## Participantes
 
 | Nome                      | RM     |
